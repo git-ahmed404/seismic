@@ -1,2 +1,2 @@
 # Seismometer
-frist
+intro
