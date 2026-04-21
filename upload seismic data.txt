@@ -6,6 +6,8 @@ Lets start by making a python code.
 
 +matlab as usual propably
 
+
 THis is a branch to matlab way
 
 Maybe you think matlab is better? then pull to main project
+also
