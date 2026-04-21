@@ -5,3 +5,5 @@ Lets start by making a python code.
 
 
 +matlab as usual propably
+
+THis is a branch to matlab way
